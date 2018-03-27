@@ -1,0 +1,8 @@
+Copy the hm.mdb file to c drive. Hope this project will help to learn coding. Use it as you want but not for Commercial use.
+
+user name = hospital
+password  = user
+
+
+
+Please vote if you like my work.
